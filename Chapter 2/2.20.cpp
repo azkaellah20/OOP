@@ -6,7 +6,7 @@ int main ()
 	
 	
 	int r,d,a,c;
-	const int pi=3.14159;
+	const double pi=3.14159;
 	cout<<"Enter radius: ";
 	cin>>r;
 	d=2*r;
